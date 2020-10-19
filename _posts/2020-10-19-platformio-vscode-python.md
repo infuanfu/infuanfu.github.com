@@ -5,7 +5,12 @@ date:   2020-10-19 14:17:14 +0200
 author: bronsen
 categories: howto
 ---
-re: [https://github.com/platformio/platformio-core/issues/3700](https://github.com/platformio/platformio-core/issues/3700)
+[platformio-core/issues/3700](https://github.com/platformio/platformio-core/issues/3700),
+and many other recent issues in that repository, are about some platformio
+dependency not yet supporting python 3.9. The linked issue describes
+a workaround for fedora 33.
+
+My approach does not require changing settings or disabling builtins.
 
 # My setup
 
