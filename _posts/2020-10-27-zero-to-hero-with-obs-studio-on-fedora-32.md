@@ -7,7 +7,7 @@ categories: howto
 ---
 
 [OBS](https://obsproject.com/) is amazing, if it just were to work out of the box the way I want.
-The problem is just Linux, because on Windows you can just use [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) and be done with it.
+The problem is mostly that I'm trying to use it on Linux, because on Windows you can just use [Streamlabs OBS](https://streamlabs.com/streamlabs-obs) and be done with it.
 
 ## What I want
 
