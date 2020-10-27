@@ -142,6 +142,8 @@ You should now hear yourself speak on your headphones.
 
 Congrats, you now have a half-decent audio setup!
 
+The only thing missing is getting that audio into your target application as well.
+That's an ongoing process and possibly addressable by pointers given [here on Github](https://github.com/CatxFish/obs-v4l2sink/issues/34).
 
 ## Coming up
 
@@ -152,6 +154,7 @@ There's still a lot of work ahead that I want to tackle:
 - DIY Teleprompter
 - Nikon D810 as webcam
 - Improve the greenscreen setup further
+- Get audio from OBS into consumer application
 
 But that's for another time :)
 
