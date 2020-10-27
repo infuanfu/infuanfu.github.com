@@ -45,7 +45,7 @@ You'll need two things:
 - v4l2loopback, a kernel module that enables you to create virtual v4l2 "webcam" devices. This allows you to have one software stream to said device while another reads from it.
 - obs-v4l2sink, an OBS plugin that allows you to stream to a v4l2loopback device.
 
-After failing to build the latter from [CatxFish's](https://github.com/CatxFish/obs-v4l2sink) unmaintained repositiry, I stumbled over (seii's)[https://github.com/seii/fedora-green-screen/blob/master/README.md] writeup that ultimately lead me to [blues-man's copr](https://github.com/blues-man/obs-v4l2sink-plugin-fedora).
+After failing to build the latter from [CatxFish's](https://github.com/CatxFish/obs-v4l2sink) unmaintained repositiry, I stumbled over [seii's](https://github.com/seii/fedora-green-screen/blob/master/README.md) writeup that ultimately lead me to [blues-man's copr](https://github.com/blues-man/obs-v4l2sink-plugin-fedora).
 Follow the steps outlined by [seii](https://github.com/seii/fedora-green-screen/blob/master/README.md) and/or blues-man's README to both install v4l2loopback as well as obs-v4l2sink.
 
 You probably want to persist any parameters you pass to modprobe using a new file in `/etc/modprobe.d`.
@@ -122,7 +122,7 @@ Tip: If you still have a gradient and the chroma key cannot fully key out all of
 ### Audio tuning
 
 Get a half-way decent microphone.
-I use the a [Fifine USB microphone](https://www.amazon.de/-/en/gp/product/B07QC5W7G9/) and possily a [flex-arm](https://www.amazon.de/-/en/gp/product/B073VJKD9Q) as well.
+I use the a [Fifine USB microphone](https://www.amazon.de/-/en/gp/product/B07QC5W7G9/) and a [flex-arm](https://www.amazon.de/-/en/gp/product/B073VJKD9Q) to hold it up.
 It does not have the best noise floor and is somewhat sensitive to environment noise, but we'll fix that soon enough.
 
 - Open up OBS
