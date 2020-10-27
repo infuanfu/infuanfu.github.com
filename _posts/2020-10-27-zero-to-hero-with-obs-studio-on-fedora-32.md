@@ -76,7 +76,7 @@ If you're like me and picked warm-white COBs in the previous step, you might loo
 
 This is an easy enough fix using a LUT filter in OBS:
 
-- Take a screenshot of the OBS window or webcam video showing yourself in the position you want to use later on with the light setup you're planning on using. If you have a [gray-card](https://www.amazon.de/-/en/gp/product/B00KCPBLWO/), now's the time to hold it next to your face, alternatively wear something that has netral gray color in it or hold up a white sheet of paper.
+- Take a screenshot of the OBS window or webcam video showing yourself in the position you want to use later on with the light setup you're planning on using. If you have a [gray-card](https://www.amazon.de/-/en/gp/product/B00KCPBLWO/), now's the time to hold it next to your face, alternatively wear something that has neutral gray color in it or hold up a white sheet of paper.
 - Open the screenshot in Gimp
 - Select `Colors > Levels`
 - Use the gray mid-tone color dropper to pick your gray card
